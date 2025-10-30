@@ -12,7 +12,7 @@ Bu rehber sayesinde:
 
 ---
 
-## 📘 Rehber İçeriği
+## Rehber İçeriği
 
 - **1. Bölüm:** Temel komutlar ve dizin gezinme  
 - **2. Bölüm:** Dosya yönetimi, kopyalama ve arşivleme  
@@ -43,7 +43,7 @@ Her komutun hemen yanında kısa açıklaması, parametreleri ve farklı platfor
 |Ekranı temizle|cls|Clear-Host|clear|Terminal ekranını temizler.|
 |Dizin içeriğini listele|dir|Get-ChildItem|ls|Bulunduğun klasördeki dosya ve klasörleri gösterir.|
 
-**🔹 Faydalı Parametreler**
+** Faydalı Parametreler**
 
 |**Parametre**|**Açıklama**|**Örnek**|
 | :- | :- | :- |
@@ -63,7 +63,7 @@ Her komutun hemen yanında kısa açıklaması, parametreleri ve farklı platfor
 |Boş klasör silmek|rmdir klasor|Remove-Item -Recurse klasor|rmdir klasor|Sadece boş klasörleri siler.|
 |Dolu klasör silmek|rmdir /s /q klasor|Remove-Item -Recurse -Force klasor|rm -rf klasor|Tüm içeriğiyle birlikte siler. ⚠️ Dikkatli kullan!|
 
-**🔹 Faydalı Parametreler**
+** Faydalı Parametreler**
 
 |**Parametre**|**Açıklama**|**Örnek**|
 | :- | :- | :- |
@@ -178,7 +178,7 @@ Her komutun altında kısa açıklaması, parametreleri ve farklı platformlarda
 |Klasör taşı|move klasor hedef|Move-Item klasor hedef|mv klasor hedef|Tüm klasörü taşır.|
 |Yeniden adlandırma|rename eski.txt yeni.txt|Rename-Item|mv eski.txt yeni.txt|Dosya veya klasör adını değiştirir.|
 
-**🔹 Faydalı Parametreler**
+** Faydalı Parametreler**
 
 |**Parametre**|**Açıklama**|**Örnek**|
 | :- | :- | :- |
