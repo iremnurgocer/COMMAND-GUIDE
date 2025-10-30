@@ -1,4 +1,4 @@
-Windows, macOS ve Linux İçin Kapsamlı Komut Rehberi
+## Windows, macOS ve Linux İçin Kapsamlı Komut Rehberi
 
 Bu proje; **Windows, macOS ve Linux** işletim sistemlerinde kullanılan terminal / komut satırı komutlarını tek bir yerde toplamak amacıyla hazırlanmıştır.  
 Her komutun altında, ilgili platformdaki karşılığı, kısa açıklaması ve örnek kullanımı yer almaktadır.
