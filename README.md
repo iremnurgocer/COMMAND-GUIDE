@@ -1,6 +1,31 @@
 Windows, macOS ve Linux İçin Kapsamlı Komut Rehberi
 
+Bu proje; **Windows, macOS ve Linux** işletim sistemlerinde kullanılan terminal / komut satırı komutlarını tek bir yerde toplamak amacıyla hazırlanmıştır.  
+Her komutun altında, ilgili platformdaki karşılığı, kısa açıklaması ve örnek kullanımı yer almaktadır.
 
+Bu rehber sayesinde:
+- Farklı işletim sistemlerinde aynı işlemi yapmanın yollarını görebilirsin.
+- Komut parametrelerinin (`-r`, `-f`, `--help` gibi) ne işe yaradığını öğrenebilirsin.
+- Terminalde dosya işlemleri, sistem yönetimi, ağ komutları ve otomasyon konularını öğrenebilirsin.
+
+> **Amaç:** Komut satırını etkili, güvenli ve platform bağımsız şekilde kullanmayı öğretmek.
+
+---
+
+## 📘 Rehber İçeriği
+
+- **1. Bölüm:** Temel komutlar ve dizin gezinme  
+- **2. Bölüm:** Dosya yönetimi, kopyalama ve arşivleme  
+- **3. Bölüm:** İzinler, sahiplik ve erişim yönetimi  
+- **4. Bölüm:** Sistem ve kaynak bilgisi  
+- **5. Bölüm:** Ağ ve bağlantı komutları  
+- **6. Bölüm:** Paket ve yazılım yönetimi  
+- **7. Bölüm:** Çıktı yönlendirme ve loglama  
+- **8. Bölüm:** Betikler, otomasyon ve zamanlama  
+- **9. Bölüm:** Hata ayıklama ve güvenlik  
+- **10. Bölüm:** Kısayollar ve platform karşılaştırmaları  
+
+---
 
 **1. BÖLÜM – TEMEL KOMUTLAR ve GEZİNME**
 
@@ -1363,3 +1388,15 @@ Bu bölümde:
 - **Renk, prompt ve kişiselleştirme** yöntemlerine hakim oldun,
 - Artık hangi sistemde olursan ol, komut mantığını **tek bakışta** anlayabilirsin
 
+---
+
+## ⚙️ Katkı ve Geliştirme
+
+Yeni komutlar, hatalar veya ek bilgiler paylaşmak istersen lütfen bir **Pull Request (PR)** aç veya **Issue** oluştur.
+
+---
+
+## 📄 Lisans
+
+Bu proje **MIT Lisansı** altında paylaşılmıştır.  
+Serbestçe kopyalayabilir, düzenleyebilir ve referans gösterebilirsin.
